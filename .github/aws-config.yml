@@ -22,7 +22,7 @@ s3_bucket: psz-github-learning-lab
 # AWS Cloud Formation Stack name #
 ##################################
 # NOTE: Defaults to "mystack" if left empty
-aws_stack_name: mystack
+aws_stack_name: psz-github-learning-lab
 
 ####################
 # AWS SAM Template #
